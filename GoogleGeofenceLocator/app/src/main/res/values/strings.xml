@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GoogleGeofenceLocator</string>
+    <string name="add_geofences">Add Geofences</string>
+</resources>
